@@ -1,4 +1,4 @@
-# Hi, I'm Paige Ledbetter 👋
+# Hi, I'm Paige Ledbetter 👩🏼‍💻🔍
  
 **Senior Data Analyst & Analytics Engineer** | SQL · dbt · Snowflake · Power BI | Insurance & InsurTech Domain Expert
  
